@@ -8,6 +8,7 @@ type -a echo
 
 ls -l
 ls -a
+ls -la
 
 ------------------------------
 COMMAND -OPTION ARGS
